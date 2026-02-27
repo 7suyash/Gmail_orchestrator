@@ -1,0 +1,31 @@
+Attachment intelligence (PDF extraction, summarization, structured data parsing)
+
+Multiple email drafting modes (professional, concise, legal, friendly, startup tone)
+
+Rule-based workflow automation (if-this-then-that email actions)
+
+Multi-account Gmail support with unified inbox
+
+Google Calendar integration for automatic scheduling and conflict detection
+
+Persistent AI memory per contact (tone adaptation and context retention)
+
+Role-based access control (admin, operator, viewer)
+
+Audit logging for all AI-generated actions
+
+Slack/Discord/webhook integrations for notifications
+
+Email-to-document export (DOCX or structured reports)
+
+Rate limiting and usage quotas for SaaS readiness
+
+Background task queue for asynchronous processing
+
+Admin dashboard for monitoring API usage and system health
+
+Token optimization and cost tracking for OpenAI usage
+
+Web UI with real-time email processing status
+
+Deployment-ready containerization (Docker + production config)
